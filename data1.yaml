@@ -1,0 +1,8 @@
+train: D:/train/images
+val: D:/valid/images
+
+
+nc: 1
+names: ['cardboard']
+
+ 
